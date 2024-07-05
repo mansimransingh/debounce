@@ -12,9 +12,6 @@
 	"main": "./index.js",
 	"types": "./index.d.ts",
 	"sideEffects": false,
-	"engines": {
-		"node": ">=18"
-	},
 	"scripts": {
 		"test": "xo && node --test"
 	},
